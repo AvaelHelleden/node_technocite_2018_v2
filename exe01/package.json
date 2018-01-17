@@ -1,0 +1,14 @@
+{
+  "name": "js-review",
+  "version": "0.0.1",
+  "description": "review js",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "review"
+  ],
+  "author": "davy",
+  "license": "MIT"
+}

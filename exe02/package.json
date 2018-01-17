@@ -1,0 +1,14 @@
+{
+  "name": "exe02",
+  "version": "0.0.1",
+  "description": "exercice 02",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exercice"
+  ],
+  "author": "davy",
+  "license": "MIT"
+}
